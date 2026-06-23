@@ -13,7 +13,7 @@ Website Management Framework
 
 📖 Overview
 
-ShadowNexus is a lightweight website deployment and management framework designed for Termux.
+ShadowNexus is a lightweight website deployment and management framework.
 
 The project evolved through multiple internal releases and stability improvements before reaching the current v3.5 Stable Release.
 
