@@ -2,7 +2,7 @@
 <div align="center">🛡️ ShadowNexus v3.5
 <br><br>
 
-Self-Healing Website Management Framework for Termux
+Website Management Framework
 
 <img src="https://img.shields.io/badge/Python-3.0-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Platform-Linux-black?style=for-the-badge">
